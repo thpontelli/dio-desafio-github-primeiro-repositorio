@@ -1,0 +1,4 @@
+Link para Download do Git: 
+https://git-scm.com/download/mac
+
+O GitBash é um terminal extentido para otimizar o uso do GIT.
